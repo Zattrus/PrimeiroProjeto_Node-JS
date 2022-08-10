@@ -1,0 +1,26 @@
+{
+  "name": "primeiroprojeto_node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zattrus/PrimeiroProjeto_Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zattrus/PrimeiroProjeto_Node-JS/issues"
+  },
+  "homepage": "https://github.com/Zattrus/PrimeiroProjeto_Node-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
